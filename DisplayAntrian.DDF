@@ -1,0 +1,55 @@
+.OPTION EXPLICIT
+.Set Cabinet=off
+.Set Compress=off
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=6144
+.Set DiskDirectoryTemplate=".."
+.Set CompressionType=MSZIP
+.Set CompressionLevel=7
+.Set CompressionMemory=21
+.Set CabinetNameTemplate="Display Antrian 170803.CAB"
+"Setup.Lst"
+"setup.exe"
+.Set Cabinet=on
+.Set Compress=on
+"Display Antrian 170803.exe"
+"msvbvm60.dll"
+"oleaut32.dll"
+"olepro32.dll"
+"asycfilt.dll"
+"stdole2.tlb"
+"COMCAT.DLL"
+"msado21.tlb"
+"crviewer.dll"
+"craxdrt.dll"
+"msbind.dll"
+"msderun.dll"
+"craxddrt.dll"
+"IMPLODE.DLL"
+"Crpaig80.dll"
+"msvcrt.dll"
+"mfc42.dll"
+"SSCSDK80.DLL"
+"PG32CONV.DLL"
+"P2smon.dll"
+"scrrun.dll"
+"quartz.dll"
+"comdlg32.ocx"
+"msflxgrd.ocx"
+"tabctl32.ocx"
+"msdatgrd.ocx"
+"MSSTDFMT.DLL"
+"msdatlst.ocx"
+"mscomct2.ocx"
+"msmask32.ocx"
+"mschrt20.ocx"
+"mshflxgd.ocx"
+"mswinsck.ocx"
+"RICHTX32.OCX"
+"RICHED32.DLL"
+"msadodc.ocx"
+"MSCOMCTL.OCX"
+"wmp.dll"
+"SETUP1.EXE"
+"VB6STKIT.DLL"
+"ST6UNST.EXE"
