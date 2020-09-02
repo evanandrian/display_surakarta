@@ -1,3 +1,3 @@
 #!/bin/bash
 git pull
-"C:\display_surakarta\DisplayAntrianMataram 1900x1080.exe" $1 &
+"C:\display_surakarta\DisplayPoli1920x720x4.exe" $1 &
